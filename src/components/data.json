@@ -1,0 +1,50 @@
+[
+    {"id": 1,
+    "title": "Rice",
+    "itemType":"Standard Items",
+    "info":"info of prduct",
+    "image":"require(`../../images/rice.jpg`)"
+    },
+    {"id": 2,
+    "title": "Pasta",
+    "itemType":"Standard Items",
+    "info":"info of prduct",
+    "image":"require(`../../images/rice.jpg`)"
+    },
+    {"id": 3,
+    "title": "Sugar",
+    "itemType":"Standard Items",
+    "info":"info of prduct",
+    "image":"require(`../../images/rice.jpg`)"
+    },
+    {"id": 4,
+    "title": "Coffee",
+    "itemType":"Standard Items",
+    "info":"info of prduct",
+    "image":"require(`../../images/rice.jpg`)"
+    },
+    {"id": 5,
+    "title": "UHT Milk",
+    "itemType":"Standard Items",
+    "info":"info of prduct",
+    "image":"require(`../../images/rice.jpg`)"
+    },
+    {"id": 6,
+    "title": "Diaper",
+    "itemType":"Emergency Items",
+    "info":"info of prduct",
+    "image":"require(`../../images/rice.jpg`)"
+    },
+    {"id": 7,
+    "title": "Hygiene",
+    "itemType":"Emergency Items",
+    "info":"info of prduct",
+    "image":"require(`../../images/rice.jpg`)"
+    },
+    {"id": 8,
+    "title": "Toilet Rolls",
+    "itemType":"Emergency Items",
+    "info":"info of prduct",
+    "image":"require(`../../images/rice.jpg`)"
+    }
+    ]
